@@ -40,21 +40,21 @@ $spacing-unit: 1.2em;
 
 
 //use Migu fonts
-@font-face {
-    font-family: 'Migu 1M';
-    src: url('fonts/migu-1m-regular.woff2') format('woff2'),
-         url('fonts/migu-1m-regular.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Migu 1M';
-    src: url('fonts/migu-1m-bold.woff2') format('woff2'),
-         url('fonts/migu-1m-bold.woff') format('woff');
-    font-weight: bold;
-}
+//@font-face {
+//    font-family: 'Migu 1M';
+//    src: url('fonts/migu-1m-regular.woff2') format('woff2'),
+//         url('fonts/migu-1m-regular.woff') format('woff');
+//}
+//
+//@font-face {
+//    font-family: 'Migu 1M';
+//    src: url('fonts/migu-1m-bold.woff2') format('woff2'),
+//         url('fonts/migu-1m-bold.woff') format('woff');
+//    font-weight: bold;
+//}
 
 * {
-  font-family: 'Migu 1M', Verdana, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 
