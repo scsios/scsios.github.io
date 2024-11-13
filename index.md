@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2024-11-13T07:43:00Z
-modi: 2024-11-13T14:42:00Z
+modi: 2024-11-13T23:17:00Z
 ---
 # 1. 視覚や識字に関して不便がある人も、画像から情報を得られるようにする iPhone 用ショートカット
 {:.no_toc}
