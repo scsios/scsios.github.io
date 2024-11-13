@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "ja" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="robots" content="noindex">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GF8FLLECPD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GF8FLLECPD');
+</script>
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if page.math %}
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    {% endif %}
+    <style>
+        {% if page.iro %}
+      body {
+        background-color: #{{ page.iro }};
+        background-image: linear-gradient(-90deg, #{{ page.gra }}, #{{ page.iro }});
+      }
+      .main-content h1,
+      .main-content h2,
+      .main-content h3,
+      .main-content h4,
+      .main-content h5,
+      .main-content h6{
+        color: #{{ page.iro }};
+      }
+        {% endif %}
+        {% if page.background %}
+      body {
+        background-image: url('media/{{ page.background }}');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+        {% endif %}
+    </style>
+
+<link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+<link rel="shortcut icon" href="/icons/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="MyWebSite" />
+<link rel="manifest" href="/icons/site.webmanifest" />
+
+  </head>
+  <body>
+   <div id="passage-text" class="passage">
+    <section class="main-content" id="bun">
+
+      {{ content }}
+
+       
+      <footer class="site-footer">
+       {% if page.author %}
+       <div><a href="mailto:{{ page.author }}">{{ page.author }}</a></div>
+       {% endif %}
+
+       {% if page.date %}
+      <div>
+    	Created: <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date }}</time>
+      </div>
+       {% endif %}
+
+       {% if page.modi %}
+      <div>
+    	Modified: <time datetime="{{ page.modi | date_to_xmlschema }}">{{ page.modi }}</time>
+      </div>
+       {% endif %}
+
+       {% if page.ccbysa %}
+       <div><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
+       {% endif %}
+
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      </footer>
+    </section>
+   </div>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
+
+

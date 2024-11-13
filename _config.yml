@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+collections:
+  post:
+    output: true
+    permalink: :title.html
+
