@@ -177,7 +177,7 @@ iPhone では　Google アプリをインストールすれば Gemini を利用�
 #### 準備
 {:.no_toc}
 
-iPhone に [Google](https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942) をインストールし、それを起動して Google にログインしておく。
+iPhone に [Google アプリ](https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942) をインストールし、それを起動して Google にログインしておく。
 
 [ジェミニ](https://www.icloud.com/shortcuts/8835ec87089c40f696153c7693b67367){:target=”_blank”}のショートカットを iPhone にダウンロードする。
 
