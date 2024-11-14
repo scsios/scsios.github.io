@@ -144,7 +144,9 @@ iPhone に [Be My Eyes](https://apps.apple.com/us/app/be-my-eyes/id905177575) �
 
 iPhone に [Be My Eyes](https://apps.apple.com/us/app/be-my-eyes/id905177575) をインストールし、「視覚補助が必要」なユーザーとして登録しておく。
 
-[写真を共有](https://www.icloud.com/shortcuts/977831ea638e4a108ada682b55325efc){:target=”_blank”}のショートカットを iPhone にダウンロードする。 Siri で起動できる。他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置いたり、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておくなどの工夫をする。
+[写真を共有](https://www.icloud.com/shortcuts/977831ea638e4a108ada682b55325efc){:target=”_blank”}のショートカットを iPhone にダウンロードする。
+
+Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置いたり、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておくなどの工夫をする。
 
 #### 使い方
 {:.no_toc}
@@ -162,3 +164,28 @@ Siri に「写真を共有」と言うか、アイコンなどから起動する
 この画面にはメッセージを書き込むテキストフィールドが有り、そこにさらに質問を書いて送信すると、また考えて答えてくれる。
 
 やめるには、画面上端の中央に出ている「ボタン」をタップ（Voice Over では選択してダブルタップまたはスプリットタップ）。
+
+## 3. Gemini を出しやすくする
+
+### 3.1. ジェミニ
+
+iPhone では　Google アプリをインストールすれば Gemini を利用できるが、 Google アプリを開くとまず検索ボックスに入り、 Gemini を開くためには切り替えボタンを操作する必要がある。
+
+これを毎回切り替えずに直接 Gemini が開くようにする。
+
+#### 準備
+{:.no_toc}
+
+iPhone に [Google](https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942) をインストールし、それを起動して Google にログインしておく。
+
+[ジェミニ](https://www.icloud.com/shortcuts/8835ec87089c40f696153c7693b67367){:target=”_blank”}のショートカットを iPhone にダウンロードする。
+
+Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置いたり、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておくなどの工夫をする。
+
+#### 使い方
+{:.no_toc}
+
+Siriに「ジェミニ」と言うか、アイコンなどから起動する。
+
+
+
