@@ -62,7 +62,7 @@ TTS無効な電子書籍を読む際、現在表示されているページの�
 
 iPhone の「メモ」アプリで、「図書」というフォルダを作っておく。抽出したテキストはその中に1件のメモとして保存される。各ページの1行目が各メモのタイトルになる。
 
-[画面から文字をメモ](https://www.icloud.com/shortcuts/a126293c92a84a119980922d6e5bcdb0){:target=”_blank”}のショートカットを iPhone にダウンロードし、 iPhone の設定＞アクセシビリティ＞タッチ＞背面タップ＞ダブルタップまたはトリプルタップ　に当てはめると良い。
+[「画面から文字をメモ」のショートカット](https://www.icloud.com/shortcuts/a126293c92a84a119980922d6e5bcdb0){:target=”_blank”}を iPhone にダウンロードし、 iPhone の設定＞アクセシビリティ＞タッチ＞背面タップ＞ダブルタップまたはトリプルタップ　に当てはめると良い。
 
 あるいは、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておく。 AssistiveTouch のボタンが文字を隠さないように、ページ面のマージンに入りそうな下端に置いたり、可能であれば待機状態時の不透明度を下げたりすると良い。
 
@@ -85,7 +85,7 @@ TTS無効な電子書籍を読む際、現在表示されているページの�
 
 このショートカットはテンプレートであり、使用者が自分のメールアドレスをショートカット内に書き込むことによって完成する。
 
-[画面から文字をメール](https://www.icloud.com/shortcuts/7b87030a2c8640d79a27e979090ac0ea){:target=”_blank”}のショートカットを iPhone にダウンロードし、「ショートカット」アプリで「画面から文字をメール」ショートカットの右上の３点マークを開いて編集画面に入る。  
+[「画面から文字をメール」のショートカット](https://www.icloud.com/shortcuts/7b87030a2c8640d79a27e979090ac0ea){:target=”_blank”}を iPhone にダウンロードし、「ショートカット」アプリで「画面から文字をメール」ショートカットの右上の３点マークを開いて編集画面に入る。  
 「宛先」欄に自分が受け取りたいメールアドレスを記入。  
 さらに「という件名で送信」のあとにある＞のマークを開き、送信元欄の「毎回尋ねる」という変数を消去し、自分の iPhone のメールアドレスを選択する。これで編集完了。
 
@@ -113,7 +113,7 @@ TTS無効な電子書籍を読む際、現在表示されているページの�
 
 iPhone に [Be My Eyes](https://apps.apple.com/us/app/be-my-eyes/id905177575) をインストールし、「視覚補助が必要」なユーザーとして登録しておく。
 
-[スクショ共有](https://www.icloud.com/shortcuts/5ebbf74c1d68479ea6f2a8a51bfd48d5){:target=”_blank”}のショートカットを iPhone にダウンロードし、 iPhone の設定＞アクセシビリティ＞タッチ＞背面タップ＞ダブルタップまたはトリプルタップ　に当てはめると良い。
+[「スクショ共有」のショートカット](https://www.icloud.com/shortcuts/5ebbf74c1d68479ea6f2a8a51bfd48d5){:target=”_blank”}を iPhone にダウンロードし、 iPhone の設定＞アクセシビリティ＞タッチ＞背面タップ＞ダブルタップまたはトリプルタップ　に当てはめると良い。
 
 あるいは、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておく。必要な部分を AssistiveTouch のボタンが隠さないように、ページ面のマージンに入りそうな下端に置いたり、可能であれば待機状態時の不透明度を下げたりすると良い。
 
@@ -145,7 +145,7 @@ iPhone に [Be My Eyes](https://apps.apple.com/us/app/be-my-eyes/id905177575) �
 
 iPhone に [Be My Eyes](https://apps.apple.com/us/app/be-my-eyes/id905177575) をインストールし、「視覚補助が必要」なユーザーとして登録しておく。
 
-[写真を共有](https://www.icloud.com/shortcuts/977831ea638e4a108ada682b55325efc){:target=”_blank”}のショートカットを iPhone にダウンロードする。
+[「写真を共有」のショートカット](https://www.icloud.com/shortcuts/977831ea638e4a108ada682b55325efc){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置いたり、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておくなどの工夫をする。
 
@@ -179,7 +179,7 @@ iPhone では　Google アプリをインストールすれば Gemini を利用�
 
 iPhone に [Google アプリ](https://apps.apple.com/jp/app/google-%E3%82%A2%E3%83%97%E3%83%AA/id284815942) をインストールし、それを起動して Google にログインしておく。
 
-[ジェミニ](https://www.icloud.com/shortcuts/8835ec87089c40f696153c7693b67367){:target=”_blank”}のショートカットを iPhone にダウンロードする。
+[「ジェミニ」のショートカット](https://www.icloud.com/shortcuts/8835ec87089c40f696153c7693b67367){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置いたり、タッチ＞AssistiveTouch をオンにして良ければ、その最上位メニューに入れておくなどの工夫をする。
 
