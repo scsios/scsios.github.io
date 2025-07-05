@@ -332,10 +332,10 @@ VoiceOver を常にオンにしている人用と、それ以外の人用があ�
 2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
 
 VoiceOver を常にオンにしている人用
-:[「この紙を読んで」のショートカット](https://www.icloud.com/shortcuts/c38ee2e655c843b5a4e06ebbbbf0d935){:target=”_blank”}を iPhone にダウンロードする。
+: [「この紙を読んで」のショートカット](https://www.icloud.com/shortcuts/c38ee2e655c843b5a4e06ebbbbf0d935){:target=”_blank”}を iPhone にダウンロードする。
 
 VoiceOver を普段はオフにしている人用
-:[「この紙を読んでください」のショートカット](https://www.icloud.com/shortcuts/4127c5c0c97d4ff8beaabac12ddebf73){:target=”_blank”}を iPhone にダウンロードする。
+: [「この紙を読んでください」のショートカット](https://www.icloud.com/shortcuts/4127c5c0c97d4ff8beaabac12ddebf73){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置くなどの工夫をする。
 
@@ -379,10 +379,10 @@ VoiceOver を常にオンにしている人用と、それ以外の人用があ�
 2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
 
 VoiceOver を常にオンにしている人用
-:[「電話番号を読んで」のショートカット](https://www.icloud.com/shortcuts/7b3b23cfaa7d43108a53c6ea4b61c2d4){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を読んで」のショートカット](https://www.icloud.com/shortcuts/7b3b23cfaa7d43108a53c6ea4b61c2d4){:target=”_blank”}を iPhone にダウンロードする。
 
 VoiceOver を普段はオフにしている人用
-:[「電話番号を読んでください」のショートカット](https://www.icloud.com/shortcuts/a9b30f6d1740426c8c5df92b6c7e8fcd){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を読んでください」のショートカット](https://www.icloud.com/shortcuts/a9b30f6d1740426c8c5df92b6c7e8fcd){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置くなどの工夫をする。
 
@@ -428,10 +428,10 @@ VoiceOver を常にオンにしている人用と、それ以外の人用があ�
 2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
 
 VoiceOver を常にオンにしている人用
-:[「電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/f602db3c1a394065b701c0d95fe2932f){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/f602db3c1a394065b701c0d95fe2932f){:target=”_blank”}を iPhone にダウンロードする。
 
 VoiceOver を普段はオフにしている人用
-:[「電話番号を登録してください」のショートカット](https://www.icloud.com/shortcuts/8675e4e2052c47fb922af3c38b6c0456){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を登録してください」のショートカット](https://www.icloud.com/shortcuts/8675e4e2052c47fb922af3c38b6c0456){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できる。
 
