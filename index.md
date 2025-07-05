@@ -383,10 +383,10 @@ VoiceOver を常にオンにしている人用と、それ以外の人用があ�
 2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
 
 VoiceOver を常にオンにしている人用
-: [「電話番号を読んで」のショートカット](https://www.icloud.com/shortcuts/7b3b23cfaa7d43108a53c6ea4b61c2d4){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を読んで」のショートカット](https://www.icloud.com/shortcuts/943ac1b91aa745c7aed1f670e3e0fffe){:target=”_blank”}を iPhone にダウンロードする。
 
 VoiceOver を普段はオフにしている人用
-: [「電話番号を読んでください」のショートカット](https://www.icloud.com/shortcuts/a9b30f6d1740426c8c5df92b6c7e8fcd){:target=”_blank”}を iPhone にダウンロードする。
+: [「電話番号を読んでください」のショートカット](https://www.icloud.com/shortcuts/dba801d70dc244f78c1c2cf2336625b7){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置くなどの工夫をする。
 
