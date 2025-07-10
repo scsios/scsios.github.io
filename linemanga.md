@@ -12,7 +12,7 @@ modi: 2025-04-13T13:00:00Z
 # VoiceOverでLINEマンガ
 {:.no_toc}
 
-[墨字や画像から情報を得るための iPhone 用ショートカット](./index.html)の応用編です。
+[読み上げや音声操作のための iPhone 用ショートカット](./index.html)の応用編です。
 
 ## 目次
 {:.no_toc}
