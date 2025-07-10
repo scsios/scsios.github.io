@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2024-11-13T07:43:00Z
-modi: 2025-07-10T13:28:00Z
+modi: 2025-07-10T22:25:00Z
 ---
 # 視覚や識字に関して不便がある人も、画像から情報を得られるようにする iPhone 用ショートカット
 {:.no_toc}
@@ -410,21 +410,14 @@ Siri には連絡先を登録する機能がないので、 iPhone のキーボ�
 #### 準備
 {:.no_toc}
 
-VoiceOver を常にオンにしている人用と、それ以外の人用があるので、自分に合う方をダウンロードする。
-2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
-
-VoiceOver を常にオンにしている人用
-: [「電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/c5a8ec3b10cb45a59060d01a667c8ea5){:target=”_blank”}を iPhone にダウンロードする。
-
-VoiceOver を普段はオフにしている人用
-: [「電話番号を登録してください」のショートカット](https://www.icloud.com/shortcuts/7238366ad0194ba6b992cf8bbf898509){:target=”_blank”}を iPhone にダウンロードする。
+[「電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/ab1e6e47570e4af08228bf31420d4470){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できる。
 
 #### 使い方
 {:.no_toc}
 
-Siri に「電話番号を登録して」（VoiceOver オン用）あるいは「電話番号を登録してください」（VoiceOver オフ用）と言う。
+Siri に「電話番号を登録して」と言う。
 
 電話番号、苗字、名前を聞かれるので、それぞれに回答する。
 
@@ -432,9 +425,6 @@ Siri に「電話番号を登録して」（VoiceOver オン用）あるいは�
 
 - 「はい」と答えると登録される。
 - それ以外の場合は何もしないで終わる。
-
-注意
-: 「電話番号を登録して」（VoiceOver オン用）の方を利用する場合、ショートカット動作の途中で強制的に止めると VoiceOver がオンに戻らないので、その場合は自分で VoiceOver オンにしてください。
 
 ### 6.2. さっきの電話番号を登録して
 
@@ -446,21 +436,14 @@ Siri に「電話番号を登録して」（VoiceOver オン用）あるいは�
 #### 準備
 {:.no_toc}
 
-VoiceOver を常にオンにしている人用と、それ以外の人用があるので、自分に合う方をダウンロードする。
-2種類に分けた理由は、 VoiceOver の音声がショートカットからの音声を邪魔するので、ショートカットの動作中だけ VoiceOver が切れるようにしてあるから。
-
-VoiceOver を常にオンにしている人用
-: [「さっきの電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/2e6322db2677438fa7dd89cb341cc0da){:target=”_blank”}を iPhone にダウンロードする。
-
-VoiceOver を普段はオフにしている人用
-: [「さっきの電話番号を登録してください」のショートカット](https://www.icloud.com/shortcuts/3cf548d1cc5d4d9ca920aeb97b00e382){:target=”_blank”}を iPhone にダウンロードする。
+[「さっきの電話番号を登録して」のショートカット](https://www.icloud.com/shortcuts/fd90b1cbbfd84a2985c23048eccca7be){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できる。
 
 #### 使い方
 {:.no_toc}
 
-Siri に「さっきの電話番号を登録して」（VoiceOver オン用）あるいは「さっきの電話番号を登録してください」（VoiceOver オフ用）と言う。
+Siri に「さっきの電話番号を登録して」と言う。
 
 電話番号の確認があり、「はい」と答えると、苗字、名前を聞かれるので、それぞれに回答する。
 
@@ -468,8 +451,5 @@ Siri に「さっきの電話番号を登録して」（VoiceOver オン用）�
 
 - 「はい」と答えると登録される。
 - それ以外の場合は何もしないで終わる。
-
-注意
-: 「さっきの電話番号を登録して」（VoiceOver オン用）の方を利用する場合、ショートカット動作の途中で強制的に止めると VoiceOver がオンに戻らないので、その場合は自分で VoiceOver オンにしてください。
 
 
