@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2025-04-13T13:00:00Z
-modi: 2025-04-13T13:00:00Z
+modi: 2025-07-10T23:01:00Z
 ---
 # VoiceOverでLINEマンガ
 {:.no_toc}
