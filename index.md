@@ -2,16 +2,17 @@
 layout: default
 category: tools
 docid: index
-title: 墨字や画像から情報を得るための iPhone 用ショートカット
+title: 読み上げや音声操作のための iPhone 用ショートカット
 author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2024-11-13T07:43:00Z
 modi: 2025-07-10T22:25:00Z
 ---
-# 視覚や識字に関して不便がある人も、画像から情報を得られるようにする iPhone 用ショートカット
+# 読み上げや音声操作のための iPhone 用ショートカット
 {:.no_toc}
 
+- 主に視覚や識字に関して不便があるけれども音は聞こえる人が、画像から情報を得られるようにするために作りました。それ以外の人も、使ってみると便利かもしれません。
 - お手元の iPhone に[「ショートカット」アプリ](https://apps.apple.com/us/app/shortcuts/id915249334)がインストールされている必要が有ります。
 - ショートカットは iOS や関連アプリのアップデートによって無効になる可能性が有ります。
 - 以下のショートカットに不具合があれば [作者](mailto:gusni.kantu@gmail.com) にお知らせください。
