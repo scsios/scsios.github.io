@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2024-11-13T07:43:00Z
-modi: 2025-07-10T23:01:00Z
+modi: 2025-07-15T22:01:00Z
 ---
 # 読み上げや音声操作のための iPhone 用ショートカット
 {:.no_toc}
@@ -336,7 +336,7 @@ iPhone のカメラを使って紙などの表面の文字を読み取るアプ�
 #### 準備
 {:.no_toc}
 
-[「この紙を読んで」のショートカット](https://www.icloud.com/shortcuts/51902f2c70f849c19ad5bc9da6d00e92){:target=”_blank”}を iPhone にダウンロードする。
+[「この紙を読んで」のショートカット](https://www.icloud.com/shortcuts/6e6210afee154796b7ce08de33288ced){:target=”_blank”}を iPhone にダウンロードする。
 
 Siri で起動できるが、他にも自分で起動しやすい方法を使えるように、アイコンをホーム画面に置くなどの工夫をする。
 
