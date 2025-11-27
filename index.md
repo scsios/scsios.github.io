@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2024-11-13T07:43:00Z
-modi: 2025-07-15T22:01:00Z
+modi: 2025-11-27T11:19:00Z
 ---
 # 読み上げや音声操作のための iPhone 用ショートカット
 {:.no_toc}
