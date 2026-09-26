@@ -7,7 +7,7 @@ author: gusni.kantu@gmail.com
 ccbysa: false
 mit: true
 date: 2026-09-24T07:43:00Z
-modi: 2026-09-24T07:43:00Z
+modi: 2026-09-26T05:57:00Z
 ---
 # Android で TalkBack などを使う
 {:.no_toc}
